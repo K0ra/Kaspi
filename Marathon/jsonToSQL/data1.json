@@ -1,0 +1,46 @@
+[
+  {
+    "dur": 5,
+    "transaction": {
+      "id": 3,
+      "start_date": "20-MAY-2020",
+      "end_date": "20-MAY-2020",
+      "amount": 30000,
+      "client_id": 120,
+      "recycler": {
+        "start_date": "20-APR-2020",
+        "office": "",
+        "city": "Moskow",
+        "rcl_number": "30",
+        "id": 3
+      },
+      "process": "deposit",
+      "product": "kaspi gold"
+    },
+    "process": "deposit",
+    "screen_name": "screen1",
+    "id": 1
+  },
+  {
+    "dur": 5,
+    "transaction": {
+      "id": 1,
+      "start_date": "18-MAY-2020",
+      "end_date": "18-MAY-2020",
+      "amount": 10000,
+      "client_id": 100,
+      "recycler": {
+        "start_date": "20-FEB-2020",
+        "office": "",
+        "city": "London",
+        "rcl_number": "10",
+        "id": 1
+      },
+      "process": "debt transit",
+      "product": "kaspi red"
+    },
+    "process": "dept transit",
+    "screen_name": "screen2",
+    "id": 2
+  }
+]
